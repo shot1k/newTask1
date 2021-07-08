@@ -15,9 +15,9 @@ function App() {
   const [personArray, setPersonArray] = useState([
     {
       id: 1,
-      firstName: "avto",
-      lastName: "avto",
-      email: "avto@gmail",
+      firstName: "jon",
+      lastName: "doe",
+      email: "jdoe@gmail",
       age: 26,
       address: "dadiani",
       // address2: "dadiani2",
